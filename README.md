@@ -4,9 +4,11 @@ Class 3-2 Bigdata Platform Project
 
 ## 주제
 
-데이터
+`데이터`
 
 ## 아키텍처
+
+`구축 환경` : Virtual Box Ubuntu Linux 20.04에 컨테이너 기반 오픈 소스 가상 플랫폼 Docker 활용
 
 * 데이터 수집
 * 데이터 처리
