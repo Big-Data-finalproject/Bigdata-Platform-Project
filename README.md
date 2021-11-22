@@ -2,6 +2,10 @@
 Class 3-2 Bigdata Platform Project
 3학년 2학기 수업 빅데이터 처리 - 빅데이터 플랫폼 구축 프로젝트
 
+프로젝트 블로그: https://jp0301.github.io/
+
+---
+
 ## 주제
 
 `데이터` : 코로나바이러스감염증-19(COVID-19) 현황 누적 데이터 (2021.11.20)  
@@ -16,6 +20,8 @@ Class 3-2 Bigdata Platform Project
 
 코로나 바이러스 감염증 (COVID-19) 현황 데이터 시각화 설명
 https://www.bigdata-map.kr/datastory/new/story_17
+
+---
 
 ## 아키텍처
 
