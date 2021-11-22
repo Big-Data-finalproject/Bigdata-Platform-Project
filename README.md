@@ -26,8 +26,11 @@ https://www.bigdata-map.kr/datastory/new/story_17
 
 ### Spark & Zeppelin 환경 구축  
 Spark Version :spark-3.2.0-bin-hadoop3.2.tgz  
-spark.apache.org/downloads.html  
+[spark.apache.org/downloads.html][sparkurl]
 
 Zeppelin Version : zeppelin-0.10.0-bin-all.tgz  
-zeppelin.apache.org/download.html  
+[zeppelin.apache.org/download.html][zeppelinurl]
+
+[sparkurl]: spark.apache.org/downloads.html
+[zeppelinurl]: zeppelin.apache.org/download.html
 
