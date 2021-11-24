@@ -1,4 +1,7 @@
+# Appache zeppelin 아파치 제플린
+
+제플린 실행 파일
+zeppelin-daemon.sh
 ```
-zeppelin readme.md
+$ zeppelin-daemon.sh start
 ```
-아파치 제플린 파일 폴더ㅊ
