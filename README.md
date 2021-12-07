@@ -34,3 +34,8 @@ Zeppelin Version : zeppelin-0.10.0-bin-all.tgz
 [sparkurl]: spark.apache.org/downloads.html
 [zeppelinurl]: zeppelin.apache.org/download.html
 
+___
+
+구축에 제일 도움 된 블로그 링크
+https://jhleeeme.github.io/how-to-install-spark-and-zeppelin/
+
