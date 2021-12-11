@@ -4,12 +4,10 @@ Class 3-2 Bigdata Platform Project
 
 ---
 
-```
 * 프로젝트 블로그: https://jp0301.github.io/
 * 발표 자료(PPT) : 
 * 샘플 시연 영상 : https://drive.google.com/file/d/1ubc5XTD7np6IgLxMTJf236mmitmREwfU/view?usp=sharing
 
-```
 
 ---
 
