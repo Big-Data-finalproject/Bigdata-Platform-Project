@@ -13,12 +13,11 @@ Class 3-2 Bigdata Platform Project
 
 ## 주제
 
-`데이터` : 서울특별시_코로나19 확진자 현황_20210422
-한국 데이터 거래소(무료) : https://www.data.go.kr/tcs/dss/selectFileDataDetailView.do?publicDataPk=15063273
+`데이터` : 서울특별시_코로나19 확진자 현황  
+공공 데이터 포털 : https://www.data.go.kr/tcs/dss/selectFileDataDetailView.do?publicDataPk=15063273  
 
 서울특별시 코로나19 자치구별 일자별 확진자 현황에 대한 데이터로  
 `연번, 확진일, 지역, 여행력, 접촉력, 등록일 등의 항목`을 제공  
-
 
 ---
 
