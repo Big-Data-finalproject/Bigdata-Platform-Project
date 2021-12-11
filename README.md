@@ -2,7 +2,14 @@
 Class 3-2 Bigdata Platform Project
 3학년 2학기 수업 빅데이터 처리 - 빅데이터 플랫폼 구축 프로젝트
 
-프로젝트 블로그: https://jp0301.github.io/
+---
+
+```
+* 프로젝트 블로그: https://jp0301.github.io/
+* 발표 자료(PPT) : 
+* 샘플 시연 영상 : https://drive.google.com/file/d/1ubc5XTD7np6IgLxMTJf236mmitmREwfU/view?usp=sharing
+
+```
 
 ---
 
