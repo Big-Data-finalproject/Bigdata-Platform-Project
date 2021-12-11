@@ -25,10 +25,10 @@ Class 3-2 Bigdata Platform Project
 `Scala Version` : 최신 버전으로 설치  
 
 ### Spark & Zeppelin 환경 구축  
-Spark Version :spark-3.2.0-bin-hadoop3.2.tgz  
+Spark Version :spark-2.2.2-bin-hadoop2.7.tgz  
 [spark.apache.org/downloads.html][sparkurl]
 
-Zeppelin Version : zeppelin-0.10.0-bin-all.tgz  
+Zeppelin Version : zeppelin-0.8.2-bin-all.tgz  
 [zeppelin.apache.org/download.html][zeppelinurl]
 
 [sparkurl]: spark.apache.org/downloads.html
